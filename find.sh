@@ -1,4 +1,4 @@
-if [[ -e $hhh.txt ]]
+if [[ -e $"hhh.txt" ]]
 then
-echo $hhh.txt exists	
+echo $"hhh.txt" exists	
 fi
